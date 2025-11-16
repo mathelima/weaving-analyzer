@@ -1,0 +1,9 @@
+numpy
+Pillow
+noise
+requests
+flask
+pytest
+flake8
+isort
+black
